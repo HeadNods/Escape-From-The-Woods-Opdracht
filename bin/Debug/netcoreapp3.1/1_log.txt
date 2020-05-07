@@ -1,0 +1,8 @@
+Leqa is in tree 1 at (22,-262)
+Razhe is in tree 2 at (312,-190)
+Ti is in tree 3 at (431,-73)
+Razhe is in tree 25 at (343,-155)
+Ti is in tree 4 at (450,-66)
+Razhe is in tree 11 at (396,-175)
+Razhe is in tree 19 at (443,-155)
+Razhe is in tree 5 at (487,-157)
